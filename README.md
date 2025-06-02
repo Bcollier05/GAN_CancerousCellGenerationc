@@ -109,12 +109,10 @@ plt.show()
 
 ## 📸 Example Output
 
-<p align="center">
-  <img src="samples/generated_epoch_100.png" width="300"/>
-</p>
+![epoch_100](https://github.com/user-attachments/assets/8a1923aa-f215-4466-a054-88fa767ba477)
 
 ---
 
 ## 📜 License
 
-MIT License © 2025 [Your Name]
+MIT License © 2025 [Britney Collier]
